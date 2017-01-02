@@ -1,0 +1,14 @@
+contentDir = "content"
+layoutDir = "layouts"
+publishDir = "public"
+buildDrafts = false
+baseURL = "https://cardoe.github.io"
+canonifyURLs = true
+
+[taxonomies]
+    category = "categories"
+    tag = "tags"
+
+[params]
+    description = "Cardoe.com"
+    author = "Doug Goldstein"
