@@ -13,3 +13,4 @@ theme = "hugo-theme-pixyll"
 [params]
     description = "Cardoe.com"
     author = "Doug Goldstein"
+    twitter_username = "doug_goldstein"
