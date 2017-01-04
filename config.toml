@@ -1,6 +1,6 @@
 contentDir = "content"
 layoutDir = "layouts"
-publishDir = "public"
+publishDir = "dist"
 buildDrafts = false
 baseURL = "https://cardoe.github.io"
 canonifyURLs = true
