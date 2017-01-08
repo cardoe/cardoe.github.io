@@ -1,5 +1,5 @@
 title = "Doug Goldstein"
-baseURL = "https://cardoe.github.io"
+baseURL = "https://cardoe.github.io/"
 copyright = "Copyright (c) 2016 - 2017, Doug Goldstein; all rights reserved."
 languageCode = "en-us"
 contentDir = "content"
