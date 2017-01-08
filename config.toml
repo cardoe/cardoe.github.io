@@ -4,7 +4,7 @@ publishDir = "dist"
 buildDrafts = false
 baseURL = "https://cardoe.github.io"
 canonifyURLs = true
-theme = "hugo-theme-pixyll"
+theme = "hugo-theme-bootstrap4-blog"
 
 [taxonomies]
     category = "categories"
