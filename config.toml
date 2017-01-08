@@ -17,6 +17,8 @@ theme = "hugo-theme-bootstrap4-blog"
     description = "Mostly Programming and Virtualization"
     author = "Doug Goldstein"
 
+    [params.sidebar]
+
     [params.social]
     twitter = "doug_goldstein"
 
