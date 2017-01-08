@@ -9,6 +9,10 @@ buildDrafts = false
 canonifyURLs = true
 theme = "hugo-theme-bootstrap4-blog"
 
+[permalinks]
+    post = "/:year/:month/:title/"
+    page = "/:slug/"
+
 [taxonomies]
     category = "categories"
     tag = "tags"
