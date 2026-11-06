@@ -1,0 +1,39 @@
+baseURL = "https://cardoe.com/"
+locale = "en-us"
+title = "Doug Goldstein"
+theme = "PaperMod"
+copyright = "© 2016 - 2026 Doug Goldstein"
+
+[pagination]
+  pagerSize = 10
+
+[permalinks.page]
+  post = "/:year/:month/:slug/"
+
+[params]
+  author = "Doug Goldstein"
+  description = "Mostly Programming and Virtualization"
+  defaultTheme = "auto"
+  ShowReadingTime = true
+  ShowPostNavLinks = true
+  ShowCodeCopyButtons = true
+
+  [[params.socialIcons]]
+    name = "github"
+    url = "https://github.com/cardoe"
+  [[params.socialIcons]]
+    name = "twitter"
+    url = "https://twitter.com/cardoe"
+
+[[menu.main]]
+  name = "Posts"
+  url = "/post/"
+  weight = 10
+[[menu.main]]
+  name = "About"
+  url = "/about/"
+  weight = 20
+[[menu.main]]
+  name = "Tags"
+  url = "/tags/"
+  weight = 30
